@@ -1,5 +1,5 @@
 glosario
-Almacenamiento: es un componente se un sistema que permite guardar y conservar datos a largo plazo.
+**Almacenamiento:** es un componente se un sistema que permite guardar y conservar datos a largo plazo.
 Base de datos: es una recopilación de datos sistemática y almacenada electrónica mente 
 ciberseguridad se encarga de proteger sistemas, redes y datos de ataques digitales. 
 Datos: es una presentación de números letras o echos sin un significado propio pero al ser procesado por un ordenador de convierte en información útil. 
