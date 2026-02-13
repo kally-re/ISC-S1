@@ -1,4 +1,5 @@
-glosario
+**Glosario**
+
 **Almacenamiento:** es un componente se un sistema que permite guardar y conservar datos a largo plazo.
 
 **Base de datos:** es una recopilación de datos sistemática y almacenada electrónica mente 
