@@ -21,6 +21,7 @@
 **Proceso:** es la ejecución de un programa o una tarea en un sistema informático. 
 
 **Salida:** son datos o información que salen de un sistema para percepción de un humano. 
+.
 **Servicio de la nube:** un usuario puede acceder a información almacenada en la nube conectado a Internet desde un dispositivo. 
 
 **Sistema de cómputo:** es el conjunto de componentes el cual recibe datos y los procesa para brindar información útil.
